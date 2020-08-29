@@ -17,7 +17,7 @@ title: Paper Street Systems
 email: muneeb@paperstreetsystems.com
 # phone: 0123456789
 # description: A coming soon page for Jekyll
-#baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 #url: "http://paperstreetsystems.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: alternatyves
 # github_username: YJPL
