@@ -5,7 +5,7 @@
 layout: default
 ---
 
-![logo](/paperstreet/images/logo.png)
+![logo](/images/logo.png)
 
 ## Paper Street Systems
 
